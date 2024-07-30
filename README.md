@@ -2,7 +2,7 @@
 
 ## Description
 
-An applcation for the creation of a professional readme much easier.
+An application for the creation of a professional readme much easier.
 
 ## Table of Contents
 
